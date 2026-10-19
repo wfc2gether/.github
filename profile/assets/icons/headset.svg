@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Headband -->
+  <path d="M4 14C4 8.5 7.5 4 12 4C16.5 4 20 8.5 20 14" stroke="#4E342E" stroke-width="2.2" stroke-linecap="round" />
+  <!-- Ear Cups -->
+  <rect x="2.5" y="12" width="4.5" height="7.5" rx="2.2" fill="#A78BFA" stroke="#4E342E" stroke-width="1.8" />
+  <rect x="17" y="12" width="4.5" height="7.5" rx="2.2" fill="#A78BFA" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Inner Cushion -->
+  <rect x="4" y="14" width="1.5" height="3.5" rx="0.7" fill="#EDE9FE" />
+  <rect x="18.5" y="14" width="1.5" height="3.5" rx="0.7" fill="#EDE9FE" />
+</svg>

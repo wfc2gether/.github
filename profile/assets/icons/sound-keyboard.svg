@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <rect x="3" y="6" width="18" height="12" rx="3" fill="#E2E8F0" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Keys -->
+  <rect x="5.5" y="8.5" width="2.5" height="2.5" rx="0.8" fill="#FBCFE8" stroke="#4E342E" stroke-width="1" />
+  <rect x="9.5" y="8.5" width="2.5" height="2.5" rx="0.8" fill="#FEF08A" stroke="#4E342E" stroke-width="1" />
+  <rect x="13.5" y="8.5" width="2.5" height="2.5" rx="0.8" fill="#BBF7D0" stroke="#4E342E" stroke-width="1" />
+  <!-- Spacebar row -->
+  <rect x="7" y="12.5" width="10" height="2.5" rx="0.8" fill="#DDD6FE" stroke="#4E342E" stroke-width="1" />
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Crown Base & Spikes -->
+  <path d="M4 18L3 8L8 12L12 5L16 12L21 8L20 18H4Z" fill="#FBBF24" stroke="#4E342E" stroke-width="1.8" stroke-linejoin="round" />
+  <!-- Bottom Band -->
+  <rect x="4" y="15.5" width="16" height="3" rx="1.5" fill="#F59E0B" stroke="#4E342E" stroke-width="1.2" />
+  <!-- Crown Jewels on Peaks -->
+  <circle cx="3" cy="8" r="1.5" fill="#EF4444" stroke="#4E342E" stroke-width="1" />
+  <circle cx="12" cy="5" r="1.8" fill="#3B82F6" stroke="#4E342E" stroke-width="1" />
+  <circle cx="21" cy="8" r="1.5" fill="#10B981" stroke="#4E342E" stroke-width="1" />
+  <!-- Center Band Gem -->
+  <circle cx="12" cy="17" r="1" fill="#FEF08A" />
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Wooden Wall Shelf Plank -->
+  <rect x="2.5" y="15" width="19" height="3" rx="1.5" fill="#8D6E63" stroke="#4E342E" stroke-width="1.8" />
+  
+  <!-- Left Wall Mounting Bracket -->
+  <path d="M5.5 18V20.5" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+  <!-- Right Wall Mounting Bracket -->
+  <path d="M18.5 18V20.5" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Pastel Books -->
+  <!-- Mint Book -->
+  <rect x="5.5" y="7.5" width="2.8" height="7.5" rx="0.8" fill="#80CBC4" stroke="#4E342E" stroke-width="1.5" />
+  <!-- Peach Book -->
+  <rect x="8.8" y="9" width="2.6" height="6" rx="0.8" fill="#FFAB91" stroke="#4E342E" stroke-width="1.5" />
+  <!-- Yellow Book (Slightly tilted) -->
+  <rect x="12" y="8" width="2.6" height="7" rx="0.8" fill="#FFE082" stroke="#4E342E" stroke-width="1.5" />
+
+  <!-- Potted Little Plant on Right -->
+  <polygon points="16.5,12 19.5,12 19,15 17,15" fill="#FFFFFF" stroke="#4E342E" stroke-width="1.2" stroke-linejoin="round" />
+  <circle cx="18" cy="10.5" r="1.8" fill="#66BB6A" stroke="#4E342E" stroke-width="1.2" />
+</svg>

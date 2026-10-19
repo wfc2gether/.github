@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Paint Roller -->
+  <rect x="5" y="4" width="13" height="5.5" rx="2" fill="#F472B6" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Roller Bracket -->
+  <path d="M18 6.5H19.5V11H12.5V15" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Roller Handle -->
+  <rect x="11" y="15" width="3" height="6" rx="1.5" fill="#FED7AA" stroke="#4E342E" stroke-width="1.6" />
+</svg>

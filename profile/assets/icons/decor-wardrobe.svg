@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Outer Cabinet Body -->
+  <rect x="3" y="2.5" width="18" height="19" rx="2" fill="#8D6E63" stroke="#4E342E" stroke-width="1.8" />
+  
+  <!-- Top Crown Molding Line -->
+  <path d="M3 5H21" stroke="#4E342E" stroke-width="1.5" />
+  
+  <!-- Center Sliding Door Division -->
+  <path d="M12 5V21.5" stroke="#4E342E" stroke-width="1.6" />
+
+  <!-- Left Door: Mirror Pane -->
+  <rect x="5" y="6.5" width="5.5" height="13.5" rx="1" fill="#E0F2F1" stroke="#4E342E" stroke-width="1.2" />
+  <!-- Mirror Glint / Reflection -->
+  <path d="M7 8L9.5 13" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" />
+
+  <!-- Right Door: 2 Wood Panels -->
+  <rect x="13.5" y="6.5" width="6" height="5.8" rx="0.8" fill="#795548" stroke="#4E342E" stroke-width="1.2" />
+  <rect x="13.5" y="14" width="6" height="6" rx="0.8" fill="#795548" stroke="#4E342E" stroke-width="1.2" />
+
+  <!-- Handles -->
+  <rect x="10.8" y="12" width="0.8" height="3" rx="0.4" fill="#4E342E" />
+  <rect x="12.5" y="12" width="0.8" height="3" rx="0.4" fill="#4E342E" />
+</svg>

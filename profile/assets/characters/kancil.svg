@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <defs>
+    <!-- Deer Fur Gradient -->
+    <linearGradient id="deer-fur" x1="60" y1="16" x2="60" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E0A96D" />
+      <stop offset="45%" stop-color="#C67D3A" />
+      <stop offset="100%" stop-color="#8D4C18" />
+    </linearGradient>
+
+    <!-- Deer Inner Ear Gradient -->
+    <linearGradient id="deer-ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF3E0" />
+      <stop offset="100%" stop-color="#F8BBD0" />
+    </linearGradient>
+
+    <!-- Deer Antler Buds Gradient -->
+    <linearGradient id="deer-antler" x1="60" y1="10" x2="60" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFE082" />
+      <stop offset="100%" stop-color="#FFB300" />
+    </linearGradient>
+
+    <!-- Deer Snout Patch -->
+    <linearGradient id="deer-snout" x1="60" y1="64" x2="60" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFDF7" />
+      <stop offset="100%" stop-color="#FFE4C4" />
+    </linearGradient>
+  </defs>
+
+  <!-- Large Soft Leaf-shaped Deer Ears -->
+  <!-- Left Ear -->
+  <g transform="rotate(-38 24 40)">
+    <path
+      d="M 14 42 C 4 28 14 12 28 20 C 34 26 34 40 24 46 Z"
+      fill="#8D4C18"
+      stroke="#5A2E0B"
+      stroke-width="2.6"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M 17 38 C 10 28 17 18 24 23 C 28 27 28 36 22 41 Z"
+      fill="url(#deer-ear)"
+    />
+  </g>
+
+  <!-- Right Ear -->
+  <g transform="rotate(38 96 40)">
+    <path
+      d="M 106 42 C 116 28 106 12 92 20 C 86 26 86 40 96 46 Z"
+      fill="#8D4C18"
+      stroke="#5A2E0B"
+      stroke-width="2.6"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M 103 38 C 110 28 103 18 96 23 C 92 27 92 36 98 41 Z"
+      fill="url(#deer-ear)"
+    />
+  </g>
+
+  <!-- Tiny Cute Rounded Antler Buds -->
+  <path d="M 44 32 C 44 20 50 18 52 24 C 54 28 50 33 46 34 Z" fill="url(#deer-antler)" stroke="#5A2E0B" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 76 32 C 76 20 70 18 68 24 C 66 28 70 33 74 34 Z" fill="url(#deer-antler)" stroke="#5A2E0B" stroke-width="2" stroke-linejoin="round" />
+
+  <!-- Deer Head Contour -->
+  <path
+    d="M 44 32 
+       C 34 34 26 44 24 60 
+       C 22 78 26 94 38 101 
+       C 46 106 54 107 60 107 
+       C 66 107 74 106 82 101 
+       C 94 94 98 78 96 60 
+       C 94 44 86 34 76 32 
+       C 68 31 52 31 44 32 Z"
+    fill="url(#deer-fur)"
+    stroke="#5A2E0B"
+    stroke-width="3.2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Fawn White Dappled Spots on Forehead -->
+  <circle cx="60" cy="40" r="2.8" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="53" cy="48" r="2.2" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="67" cy="48" r="2.2" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="60" cy="54" r="2.5" fill="#FFFFFF" opacity="0.9" />
+
+  <!-- Kawaii Rosy Cheeks -->
+  <ellipse cx="28" cy="76" rx="8" ry="5" fill="#FF8A80" opacity="0.8" />
+  <ellipse cx="92" cy="76" rx="8" ry="5" fill="#FF8A80" opacity="0.8" />
+
+  <!-- Cream Snout / Muzzle Area -->
+  <path
+    d="M 46 68 
+       C 44 64 50 62 60 62 
+       C 70 62 76 64 74 68 
+       C 74 82 72 96 60 96 
+       C 48 96 46 82 46 68 Z"
+    fill="url(#deer-snout)"
+  />
+
+  <!-- Doe Eyes (Chibi Sweet Curved Happy Eyes) -->
+  <path d="M 37 60 Q 43 54 49 60" stroke="#3D1D05" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M 71 60 Q 77 54 83 60" stroke="#3D1D05" stroke-width="3" stroke-linecap="round" fill="none" />
+
+  <!-- Cute Eyelashes -->
+  <path d="M 36 58 L 33 55" stroke="#3D1D05" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 84 58 L 87 55" stroke="#3D1D05" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Small Brown Heart Nose -->
+  <path d="M 57 74 C 55 71 58 69 60 71 C 62 69 65 71 63 74 L 60 77 Z" fill="#421E06" />
+
+  <!-- Gentle Small Smile -->
+  <path d="M 56 82 Q 60 85 64 82" stroke="#5A2E0B" stroke-width="2" stroke-linecap="round" fill="none" />
+</svg>

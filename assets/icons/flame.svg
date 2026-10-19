@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Outer Flame -->
+  <path d="M12 3C12 3 7.5 7.5 7.5 13C7.5 17 9.5 20 12 20C14.5 20 16.5 17 16.5 13C16.5 10 15 7.5 15 7.5C15 7.5 14.5 9 13.5 9C12.5 9 12 6.5 12 3Z" fill="#FB923C" stroke="#4E342E" stroke-width="1.8" stroke-linejoin="round" />
+  <!-- Inner Core Flame -->
+  <path d="M12 11C12 11 10 13 10 15.5C10 17 11 18.5 12 18.5C13 18.5 14 17 14 15.5C14 13.5 13 12.5 12 11Z" fill="#FDE047" stroke="#EA580C" stroke-width="1" />
+</svg>

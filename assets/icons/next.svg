@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Rounded Triangle Track Skip -->
+  <path d="M5.5 5.5C5.5 4.6 6.5 4.1 7.3 4.6L14.5 9.5C15.2 10 15.2 11.2 14.5 11.7L7.3 16.6C6.5 17.1 5.5 16.6 5.5 15.7V5.5Z" fill="#FDE047" stroke="#4E342E" stroke-width="1.8" stroke-linejoin="round" />
+  <!-- End Line Bar -->
+  <rect x="16.5" y="5" width="2.5" height="12" rx="1.2" fill="#4E342E" stroke="#4E342E" stroke-width="0.5" />
+</svg>

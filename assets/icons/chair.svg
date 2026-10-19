@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Legs -->
+  <path d="M6 17L4.5 21" stroke="#4E342E" stroke-width="2" stroke-linecap="round" />
+  <path d="M18 17L19.5 21" stroke="#4E342E" stroke-width="2" stroke-linecap="round" />
+  <path d="M9 17L8.5 20" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M15 17L15.5 20" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+  <!-- Backrest -->
+  <rect x="6" y="3" width="12" height="11" rx="4.5" fill="#C4B5FD" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Seat Cushion -->
+  <rect x="4" y="12" width="16" height="5.5" rx="2.5" fill="#DDD6FE" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Cozy cushion tufts -->
+  <circle cx="10" cy="8" r="0.9" fill="#8B5CF6" />
+  <circle cx="14" cy="8" r="0.9" fill="#8B5CF6" />
+</svg>

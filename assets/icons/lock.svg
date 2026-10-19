@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Shackle -->
+  <path d="M7 10V7C7 4.2 9.2 2 12 2C14.8 2 17 4.2 17 7V10" stroke="#4E342E" stroke-width="2.2" stroke-linecap="round" />
+  <!-- Lock Body -->
+  <rect x="4" y="10" width="16" height="12" rx="3.5" fill="#FBBF24" stroke="#4E342E" stroke-width="2" />
+  <!-- Keyhole -->
+  <circle cx="12" cy="15" r="1.5" fill="#4E342E" />
+  <path d="M12 16.5V18.5" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+</svg>

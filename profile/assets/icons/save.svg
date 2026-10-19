@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <path d="M4 4H16L20 8V19C20 20.1 19.1 21 18 21H6C4.9 21 4 20.1 4 19V4Z" fill="#99F6E4" stroke="#4E342E" stroke-width="1.8" stroke-linejoin="round" />
+  <!-- Slider metal -->
+  <rect x="7" y="4" width="8" height="5" rx="1" fill="#FFFFFF" stroke="#4E342E" stroke-width="1.4" />
+  <!-- Label area -->
+  <rect x="6.5" y="12" width="11" height="7" rx="1.5" fill="#F0FDFA" stroke="#4E342E" stroke-width="1.4" />
+  <!-- Checkmark -->
+  <path d="M9.5 15.5L11.5 17.5L15 14" stroke="#0D9488" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

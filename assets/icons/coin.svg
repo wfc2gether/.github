@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Outer Rim -->
+  <circle cx="12" cy="12" r="9.5" fill="#FBBF24" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Inner Ring -->
+  <circle cx="12" cy="12" r="7.5" fill="#F59E0B" stroke="#D97706" stroke-width="1.2" />
+  <!-- Center Star Motif -->
+  <path d="M12 6.5L13.5 10.2L17.5 10.5L14.5 13.2L15.5 17L12 15L8.5 17L9.5 13.2L6.5 10.5L10.5 10.2L12 6.5Z" fill="#FEF08A" stroke="#B45309" stroke-width="0.8" />
+  <!-- Shiny reflection -->
+  <circle cx="8" cy="8" r="1" fill="#FFFFFF" />
+</svg>

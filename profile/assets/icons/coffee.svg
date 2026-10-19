@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Steam curls -->
+  <path d="M8.5 5C8.5 3.8 9.5 3 9 2" stroke="#B45309" stroke-width="1.4" stroke-linecap="round" />
+  <path d="M12.5 4.5C12.5 3.3 13.5 2.5 13 1.5" stroke="#B45309" stroke-width="1.4" stroke-linecap="round" />
+  <!-- Mug Handle -->
+  <path d="M16 10H18C19.7 10 20.5 11.2 20.5 12.5C20.5 13.8 19.7 15 18 15H15" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+  <!-- Mug Body -->
+  <path d="M5 8H17V15C17 17.8 14.8 20 12 20H10C7.2 20 5 17.8 5 15V8Z" fill="#FDBA74" stroke="#4E342E" stroke-width="1.8" stroke-linejoin="round" />
+  <!-- Latte Art Heart inside cup -->
+  <ellipse cx="11" cy="9.5" rx="4.5" ry="1.5" fill="#78350F" />
+  <circle cx="11" cy="9.5" r="0.8" fill="#FFF7ED" />
+</svg>

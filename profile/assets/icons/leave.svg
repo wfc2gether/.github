@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Door frame / room opening -->
+  <path d="M3.5 20.5V4C3.5 3.2 4.2 2.5 5 2.5H13.5C14.3 2.5 15 3.2 15 4V20.5" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" fill="#FEF3C7" />
+  <!-- Open Door leaf -->
+  <path d="M3.5 20.5L12 18.2V4.8L3.5 2.5V20.5Z" fill="#FCA5A5" stroke="#4E342E" stroke-width="1.8" stroke-linejoin="round" />
+  <!-- Door Knob -->
+  <circle cx="10" cy="11.5" r="1.1" fill="#FEF08A" stroke="#4E342E" stroke-width="1.1" />
+  <!-- Exit Arrow -->
+  <path d="M14.5 12H21.5M21.5 12L18.5 9M21.5 12L18.5 15" stroke="#E11D48" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <defs>
+    <!-- Capybara Golden Caramel Fur Gradient -->
+    <linearGradient id="capy-fur" x1="60" y1="12" x2="60" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E5A866" />
+      <stop offset="45%" stop-color="#CE8B45" />
+      <stop offset="100%" stop-color="#9E5E24" />
+    </linearGradient>
+
+    <!-- Snout Cream Gradient -->
+    <linearGradient id="capy-snout" x1="60" y1="60" x2="60" y2="97" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFF4E3" />
+      <stop offset="65%" stop-color="#FDE1B8" />
+      <stop offset="100%" stop-color="#F0C68E" />
+    </linearGradient>
+
+    <!-- Headphone Matcha Green Gradient -->
+    <linearGradient id="capy-headphone" x1="20" y1="13" x2="100" y2="71" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9CCC65" />
+      <stop offset="50%" stop-color="#7CB342" />
+      <stop offset="100%" stop-color="#558B2F" />
+    </linearGradient>
+  </defs>
+
+  <!-- EARS (Positioned High on Crown & Tilted Outward) -->
+  <!-- Left Ear -->
+  <g transform="rotate(-14 36 29)">
+    <path
+      d="M 30 29 C 28 17 40 13 46 23 C 48 28 46 36 38 39 Z"
+      fill="#B37030"
+      stroke="#683812"
+      stroke-width="2.8"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M 34 28 C 32 20 40 18 43 24 C 44 28 42 33 38 35 Z"
+      fill="#F4B792"
+      opacity="0.9"
+    />
+  </g>
+
+  <!-- Right Ear -->
+  <g transform="rotate(14 84 29)">
+    <path
+      d="M 90 29 C 92 17 80 13 74 23 C 72 28 74 36 82 39 Z"
+      fill="#B37030"
+      stroke="#683812"
+      stroke-width="2.8"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M 86 28 C 88 20 80 18 77 24 C 76 28 78 33 82 35 Z"
+      fill="#F4B792"
+      opacity="0.9"
+    />
+  </g>
+
+  <!-- Head Contour (Sculpted chubby jowls, soft crown) -->
+  <path
+    d="M 44 35 
+       C 32 37 26 47 24 63 
+       C 21 79 20 93 32 101 
+       C 40 107 54 108 60 108 
+       C 66 108 80 107 88 101 
+       C 100 93 99 79 96 63 
+       C 94 47 88 37 76 35 
+       C 68 33 52 33 44 35 Z"
+    fill="url(#capy-fur)"
+    stroke="#683812"
+    stroke-width="3.2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Cheek Fur Tufts -->
+  <path
+    d="M 23 79 C 18 83 18 87 22 90"
+    stroke="#683812"
+    stroke-width="2"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M 97 79 C 102 83 102 87 98 90"
+    stroke="#683812"
+    stroke-width="2"
+    stroke-linecap="round"
+    fill="none"
+  />
+
+  <!-- Kawaii Rosy Cheeks Blush -->
+  <ellipse cx="28" cy="79" rx="8" ry="5" fill="#FF8A80" opacity="0.75" />
+  <ellipse cx="92" cy="79" rx="8" ry="5" fill="#FF8A80" opacity="0.75" />
+
+  <!-- Snout Cream Patch (Centered between eyes, no mouth) -->
+  <path
+    d="M 44 66 
+       C 42 62 48 60 60 60 
+       C 72 60 78 62 76 66 
+       C 76 81 73 97 60 97 
+       C 47 97 44 81 44 66 Z"
+    fill="url(#capy-snout)"
+    stroke="#8A4E1B"
+    stroke-width="2.2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Nose Pad & Nostrils -->
+  <path
+    d="M 54 67 
+       C 52 63 68 63 66 67 
+       C 66 71 64 74 60 74 
+       C 56 74 54 71 54 67 Z"
+    fill="#3E2723"
+  />
+  <ellipse cx="60" cy="66.5" rx="3.2" ry="1" fill="#795548" opacity="0.6" />
+  <ellipse cx="57" cy="69" rx="1.3" ry="1.7" fill="#1C0F0B" />
+  <ellipse cx="63" cy="69" rx="1.3" ry="1.7" fill="#1C0F0B" />
+
+  <!-- EYES (Bold, Crisp Happy Anime Arcs) -->
+  <!-- Left Eye -->
+  <path
+    d="M 32 61 C 35 56 41 56 44 61"
+    stroke="#3E2723"
+    stroke-width="3.4"
+    stroke-linecap="round"
+  />
+  <path d="M 31 59 L 29 56" stroke="#3E2723" stroke-width="2" stroke-linecap="round" />
+  <!-- Right Eye -->
+  <path
+    d="M 76 61 C 79 56 85 56 88 61"
+    stroke="#3E2723"
+    stroke-width="3.4"
+    stroke-linecap="round"
+  />
+  <path d="M 89 59 L 91 56" stroke="#3E2723" stroke-width="2" stroke-linecap="round" />
+
+  <!-- MATCHA GREEN STUDIO HEADPHONES -->
+  <!-- Outer Headband -->
+  <path
+    d="M 22 57 C 22 13 98 13 98 57"
+    stroke="url(#capy-headphone)"
+    stroke-width="7"
+    stroke-linecap="round"
+  />
+  <!-- Cushion Pad -->
+  <path
+    d="M 30 51 C 32 21 88 21 90 51"
+    stroke="#AED581"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    opacity="0.8"
+  />
+  <!-- Metal Bracket -->
+  <rect x="20" y="49" width="5" height="10" rx="1.5" fill="#B0BEC5" stroke="#78909C" stroke-width="0.8" />
+  <rect x="95" y="49" width="5" height="10" rx="1.5" fill="#B0BEC5" stroke="#78909C" stroke-width="0.8" />
+
+  <!-- Left Earcup -->
+  <rect
+    x="14"
+    y="51"
+    width="14"
+    height="24"
+    rx="7"
+    fill="#7CB342"
+    stroke="#466E1D"
+    stroke-width="2.2"
+  />
+  <rect x="16.5" y="54" width="5" height="18" rx="2.5" fill="#8BC34A" />
+
+  <!-- Right Earcup -->
+  <rect
+    x="92"
+    y="51"
+    width="14"
+    height="24"
+    rx="7"
+    fill="#7CB342"
+    stroke="#466E1D"
+    stroke-width="2.2"
+  />
+  <rect x="98.5" y="54" width="5" height="18" rx="2.5" fill="#8BC34A" />
+</svg>

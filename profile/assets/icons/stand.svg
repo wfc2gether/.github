@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Head -->
+  <circle cx="12" cy="5" r="2.8" fill="#FDE68A" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Body -->
+  <rect x="9.5" y="8.5" width="5" height="6.5" rx="2" fill="#818CF8" stroke="#4E342E" stroke-width="1.8" />
+  <!-- Arm -->
+  <path d="M9.5 10L7 12.5" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M14.5 10L17 12" stroke="#4E342E" stroke-width="1.8" stroke-linecap="round" />
+  <!-- Legs in stride -->
+  <path d="M10.5 15V19.5L8.5 20" stroke="#4E342E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M13.5 15V18.5L16 20" stroke="#4E342E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
